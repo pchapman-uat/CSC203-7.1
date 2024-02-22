@@ -7,6 +7,12 @@ Create an Application that uses the following Algorithm in Java to help choose y
 When Signing up for classes each semester, the choices can be overwhelming. Well, not anymore, you can let Java pick your courses for you based on data.
 
 To find out Should I take this course?
+
+## Images
+<img src="/images/image1.png" alt="Introduction" width="500"/>
+<img src="/images/image2.png" alt="Questions" width="500"/>
+<img src="/images/image3.png" alt="Prediction" width="500"/>
+
 ## Guidelines
 <details>
 <summary>View Guidelines</summary>
